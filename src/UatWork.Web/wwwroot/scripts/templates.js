@@ -1,0 +1,1 @@
+angular.module("Templates", []).run(["$templateCache", function($templateCache) {$templateCache.put("account/account.component.html","<h1> this is sample page</h1>");}]);
